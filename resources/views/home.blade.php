@@ -284,7 +284,7 @@
             <div class="d-flex flex-column justify-content-center align-items-center">
                 <h1>Google Rating</h1>
                 <a href="https://www.google.com/search?sxsrf=APq-WBsIdFU6HIpdFZgEQuDD0KUdIZ62Kg:1648850895497&q=nails%20spa%20101&sa=X&ved=2ahUKEwiipaef8PP2AhWR8HMBHb3YDJAQvS56BAgSEAE&biw=727&bih=687&dpr=1.1&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14&tbm=lcl&rflfq=1&num=10&rldimm=5039173566369058363&lqi=Cg1uYWlscyBzcGEgMTAxSOXMvLryrICACFobEAAQARACGAAYARgCIg1uYWlscyBzcGEgMTAxkgEKbmFpbF9zYWxvbg&rlst=f#lrd=0x872b73b05c2c4459:0x45eebda8f0f74e3b,1,,,&rlfi=hd:;si:5039173566369058363,l,Cg1uYWlscyBzcGEgMTAxSOXMvLryrICACFobEAAQARACGAAYARgCIg1uYWlscyBzcGEgMTAxkgEKbmFpbF9zYWxvbg;mv:[[33.6381924,-111.9746763],[33.597383799999996,-112.2439186]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14" class="text-center" target="_blank">
-                    <img src="{{ asset('assets/img/testimonials/google.png') }}"><br>
+                    <img src="{{ asset('assets/img/testimonials/google-review.png') }}"><br>
                     <span>Tap or click to view reviews on Google.</span>
                 </a>
             </div>
