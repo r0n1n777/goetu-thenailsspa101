@@ -59,7 +59,7 @@
                 <img src="{{ asset('assets/img/menu/nail4.jpg') }}" class="menu-img">
                 <div class="menu-content">
                     <b>Hand Polish Change</b>
-                    <span>$8</span>
+                    <span>$10</span>
                 </div>
                 <div class="menu-desc">
                     Manicure
@@ -79,39 +79,31 @@
                 <img src="{{ asset('assets/img/menu/nail6.jpg') }}" class="menu-img">
                 <div class="menu-content">
                     <b>Nail Trim</b>
-                    <span>$10+</span>
+                    <span>$7</span>
                 </div>
                 <div class="menu-desc">
-                    Manicure
+                    Difficult Shape • +$5<br>
+                    Shiny Buff • +$5<br>
+                    French Tip • +$5
                 </div>
             </div>
 
 
 
             <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
-                <img src="{{ asset('assets/img/menu/nail1.jpg') }}" class="menu-img">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
                 <div class="menu-content">
                     <b>Basic Pedicure</b>
-                    <span>$25</span>
+                    <span>$28</span>
                 </div>
                 <div class="menu-desc">
                     Pedicure
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
-                <img src="{{ asset('assets/img/menu/nail2.jpg') }}" class="menu-img">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
                 <div class="menu-content">
                     <b>Deluxe Spa Pedicure</b>
-                    <span>$35</span>
-                </div>
-                <div class="menu-desc">
-                    Pedicure
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
-                <img src="{{ asset('assets/img/menu/nail3.jpg') }}" class="menu-img">
-                <div class="menu-content">
-                    <b>Pampered Pedicure</b>
                     <span>$40</span>
                 </div>
                 <div class="menu-desc">
@@ -119,19 +111,19 @@
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
-                <img src="{{ asset('assets/img/menu/nail4.jpg') }}" class="menu-img">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
                 <div class="menu-content">
-                    <b>Top Notch Pedicure</b>
-                    <span>$50</span>
+                    <b>Pampered Pedicure</b>
+                    <span>$45</span>
                 </div>
                 <div class="menu-desc">
                     Pedicure
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
-                <img src="{{ asset('assets/img/menu/nail5.jpg') }}" class="menu-img">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
                 <div class="menu-content">
-                    <b>Volcano Spa Pedicure</b>
+                    <b>Top Notch Pedicure</b>
                     <span>$55</span>
                 </div>
                 <div class="menu-desc">
@@ -139,10 +131,50 @@
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
-                <img src="{{ asset('assets/img/menu/nail6.jpg') }}" class="menu-img">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
+                <div class="menu-content">
+                    <b>Volcano Spa Pedicure</b>
+                    <span>$60</span>
+                </div>
+                <div class="menu-desc">
+                    Pedicure
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
                 <div class="menu-content">
                     <b>Collagen Spa Pedicure</b>
-                    <span>$60</span>
+                    <span>$65</span>
+                </div>
+                <div class="menu-desc">
+                    Pedicure
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
+                <div class="menu-content">
+                    <b>Nails Trim</b>
+                    <span>$12+</span>
+                </div>
+                <div class="menu-desc">
+                    Pedicure
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
+                <div class="menu-content">
+                    <b>Polish Change</b>
+                    <span>$12</span>
+                </div>
+                <div class="menu-desc">
+                    Pedicure
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-pedicure">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
+                <div class="menu-content">
+                    <b>Gel Polish Change</b>
+                    <span>$20</span>
                 </div>
                 <div class="menu-desc">
                     Pedicure
@@ -210,6 +242,26 @@
                     Waxing
                 </div>
             </div>
+            <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-waxing">
+                <img src="{{ asset('assets/img/menu/leg.jpg') }}" class="menu-img">
+                <div class="menu-content">
+                    <b>Full Leg</b>
+                    <span>$65+</span>
+                </div>
+                <div class="menu-desc">
+                    Waxing
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-waxing">
+                <img src="{{ asset('assets/img/menu/leg.jpg') }}" class="menu-img">
+                <div class="menu-content">
+                    <b>Half Leg</b>
+                    <span>$35</span>
+                </div>
+                <div class="menu-desc">
+                    Waxing
+                </div>
+            </div>
 
 
             <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-kids">
@@ -223,7 +275,7 @@
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-kids">
-                <img src="{{ asset('assets/img/menu/nail2.jpg') }}" class="menu-img">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
                 <div class="menu-content">
                     <b>Feet Polish Change</b>
                     <span>$8</span>
@@ -243,7 +295,7 @@
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 col-sm-12 menu-item filter-kids">
-                <img src="{{ asset('assets/img/menu/nail4.jpg') }}" class="menu-img">
+                <img src="{{ asset('assets/img/menu/pedicure.jpg') }}" class="menu-img">
                 <div class="menu-content">
                     <b>Regular Pedicure</b>
                     <span>$20</span>
@@ -298,11 +350,11 @@
                         <div class="tab-pane active show w-75" id="tab-1">
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>SNS Dip</b>
-                                <span>$40</span>
+                                <span>$45</span>
                             </div>
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>SNS Manicure</b>
-                                <span>$45</span>
+                                <span>$50</span>
                             </div>
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>SNS Full Set</b>
@@ -310,14 +362,14 @@
                             </div>
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>SNS Ombre</b>
-                                <span>$50+</span>
+                                <span>$55+</span>
                             </div>
                         </div>
 
                         <div class="tab-pane w-75" id="tab-2">
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>Regular Full Set</b>
-                                <span>$40+</span>
+                                <span>$50+</span>
                             </div>
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>Gel Full Set</b>
@@ -333,7 +385,7 @@
                             </div>
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>Regular Fill</b>
-                                <span>$25+</span>
+                                <span>$40+</span>
                             </div>
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>Gel Fill</b>
@@ -363,6 +415,18 @@
                                 <b>Pink and White Fill</b>
                                 <span>$35+</span>
                             </div>
+                            <div class="d-flex flex-column justify-content-between border-bottom p-2">
+                                <span class="d-flex justify-content-between">
+                                    <b>Ombre Fill</b>
+                                    <span>$40+</span>
+                                </span>
+                                <span class="text-muted">
+                                    Coffin, Stiletto, Oval • $5<br>
+                                    Taper Square • $10<br>
+                                    Nail Repair • $5<br>
+                                    Cut Down • $5
+                                </span>
+                            </div>
                         </div>
 
                         <div class="tab-pane w-75" id="tab-3">
@@ -376,7 +440,7 @@
                             </div>
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>Regular Fill</b>
-                                <span>$40+</span>
+                                <span>$45+</span>
                             </div>
                             <div class="d-flex justify-content-between border-bottom p-2">
                                 <b>Gel Fill</b>
